@@ -1,4 +1,4 @@
-#[Outlook 2010 Addin Translator using Bing Translator API](http://dunckr.com)
+# Improved Outlook Translator
 
 Instantly translate any Outlook text without even having to know it's language.
 
