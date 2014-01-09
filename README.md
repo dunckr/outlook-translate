@@ -1,6 +1,6 @@
 # Improved Outlook Translator
 
-Instantly translate any Outlook text without even having to know it's language.
+Instantly translate text in Outlook without having to know it's language.
 
 ![Outlook 2010 Addin Translator ](https://github.com/dunckr/outlook-translate/raw/master/sample.png)
 
